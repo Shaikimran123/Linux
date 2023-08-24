@@ -1,0 +1,25 @@
+1. whoami -->shows current directory
+2. uname --> linux
+3. pwd
+4. ls
+5. cd (change dir)
+6. cd ../ --> back one folder
+7. clear
+8. cd /home/user/Downloads
+9. cd ~ --->directly come to home no matter where u r in!!
+
+10. touch file1--> creates a file
+11. mkdir newfolder
+12. touch f1 f2 f3 f4 f5  --> 5 files
+13. mkdir n1 n2 n3 n4 n5  --> 5 folders
+14. ctrl+n clear the screen
+15. rm f1 --> remove file
+16. mv f2 /home/user/Desktop/n1 --> moving f2 file into n1 folder
+17. stat f2 --> shows all the properties
+18. rm f* -> delete all the files which starts with f
+19. rmdir n1 --> can be deleted if the folder contains empty
+20. rm -r n2 --> delets even it contains the file inside the folder.
+21. rm -r n* --> delets all the folders which starts with n
+22. touch f1.txt
+23. cat f1.txt --> view the data
+24. cp f1.txt nf1.txt  --> copys the data from f1.txt to nf1.txt
