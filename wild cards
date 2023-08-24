@@ -1,0 +1,9 @@
+wild card : special cmd *,?,[]
+case sensitive
+ls f* --> show  the file which starts with f.
+ls f1* --> displays after 1th f file. ex: f10,f11,f12,f13,f14,.......
+---------
+ls f? --> if we have file from 1 to 300, means from single digit to 3 len digit, with this cmd we will get only 2 length cmd
+ls f??
+------------
+ls f[123] --> f1,f2,f3
